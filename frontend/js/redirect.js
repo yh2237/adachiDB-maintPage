@@ -1,6 +1,6 @@
 const ORIGIN_URL = "https://adachi.2237yh.net";
 const REDIRECT_URL = "https://adachi.2237yh.net";
-const INTERVAL = 2000;
+const INTERVAL = 3000;
 
 async function check() {
     try {
